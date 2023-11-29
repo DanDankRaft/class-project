@@ -31,7 +31,7 @@ export default function Guestbook(props) {
         let reqBody = JSON.stringify({name: name, body: body});
 
         //todo, replace with environment variable
-        fetch("http://localhost:3000/guestbook/post",
+        fetch("https://gayos.vercel.app/guestbook/post",
         {method: "POST",
          body: reqBody})
         .then(res => setGuests(g => [...g, reqBody]))

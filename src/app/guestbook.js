@@ -5,17 +5,17 @@ import Window from "./window";
 
 export default function Guestbook(props) {
     let [currentGuest, setCurrentGuest] = useState(0);
-    let [guests, setGuests] = useState([{name: "null", body: "null"}]);
+    let [guests, setGuests] = useState([]);
     let [isEditor, setIsEditor] = useState(false);
 
     let [editorName, setEditorName] = useState("");
     let [editorBody, setEditorBody] = useState("");
 
-    useEffect(() => {
-        fetch("https://gayos.vercel.app/guestbook")
-        .then(res => res.json())
-        .then(res => setGuests(res.guests));
-    }, [props.windowState, isEditor])
+    // useEffect(() => {
+    //     fetch("http://localhost:3000/guestbook")
+    //     .then(res => res.json())
+    //     .then(res => setGuests(res.guests));
+    // }, [props.windowState, isEditor])
     
 
     async function submitStory(e)
@@ -24,18 +24,23 @@ export default function Guestbook(props) {
         let name = e.target.elements.name.value;
         let body = e.target.elements.body.value;
         
+
         if(!name || !body)
             //TODO: some sort of error message about how you need to have both a name and a message body
             return;
 
-        let reqBody = JSON.stringify({name: name, body: body});
+        let reqBody = {name: name, body: body};
+
+        // let reqBody = JSON.stringify({name: name, body: body});
 
         //todo, replace with environment variable
-        fetch("https://gayos.vercel.app/guestbook/post",
-        {method: "POST",
-         body: reqBody})
-        .then(res => setGuests(g => [...g, reqBody]))
-        .then(res => setIsEditor(false))
+        // fetch("http://localhost:3000/guestbook/post",
+        // {method: "POST",
+        //  body: reqBody})
+        // .then(res => setGuests(g => [...g, reqBody]))
+        // .then(res => setIsEditor(false))
+        setGuests([...guests, reqBody]);
+        setIsEditor(false);
     }
 
 

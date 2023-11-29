@@ -1,0 +1,193 @@
+{
+    "emails": [
+        {
+            "title": "Introducing Electronic Mail: UUCP is now live!",
+            "sender": "research!bell",
+            "recipient": "all!bell",
+            "cc": "",
+            "date": "2 February 1976",
+            "body": [
+                "Bell Labs is already at the forefront of computer technology. Our developments, from the transistor to the Unix Operating System have revolutionized computers across the country and helped propell our parent company AT&T into enormous success. Today, we are proud to announce yet another revolutionary feature to be included in the upcoming Unix version 7.",
+                "",
+                "Unix-to-Unix Copy Protocol (UUCP) allows users to send mail-like, electornic text messages to other Unix computers running on the same network. UUCP is live for all Bell Labs employees nationwide starting TODAY. One major downside of UUCP: it’s hard for management to keep track of what you send over it.",
+                "",
+                "UUCP addresses use the following format: username!host. We have decided against using ARPANET’s username@host.tld for compatibility reasons. We don’t believe it will ever catch on.",
+                "",
+                "Thanks,",
+                "Unix v7 development team"
+            ]
+        },
+        {
+            "title": "Recommending Further Changes to Antidiscrimination Policy",
+            "sender": "vp!att",
+            "recipient": "president!att",
+            "cc": "",
+            "date": "7 December 1979",
+            "body": [
+                "Greetings,",
+                "",
+                "I just came off the phone with our in-house Equal Employment Opportunity team. I know you are sick of hearing about the EEO stuff. You already know that after that picketing incident in Minnesota in ‘74 the federal government wants us to ban discrimination based on “sexual preference” nationwide. We could ignore it for a while but it now seems like that case we lost in California back in ‘75 could set a national precedent.",
+                "",
+                "We have to avoid another legal battle with the feds at all costs. You’ve heard the rumblings about another antitrust lawsuit - a real one that could actually break us up. I don’t want to do this, and neither do you, but we can’t afford another sh*tshow.",
+                "",
+                "Thanks."
+            ]
+        },
+        {
+            "title": "Upcoming Changes to Antidiscrimination Policy",
+            "sender": "president!att",
+            "recipient": "all!att",
+            "cc": "",
+            "date": "8 December 1979",
+            "body": [
+                "Dear the AT&T family,",
+                "",
+                "AT&T is proud of being a welcoming workplace for everyone regardless of race or gender. Our first-in-the-country corporate antidiscrimination, implemented in mid-1975, has helped keep us at the forefront of American telecommunications. It’s not our long history, revolutionary technologies, or even our legal monopoly over telephone lines that helps us succeed - but employees like you.",
+                "",
+                "That is why we are extending our antidiscrimination policy even further: starting on January 1st, discrimination against employees and on the basis of sexual orientation is strictly prohibited.",
+                "",
+                "Thanks,",
+                "Office of the President."
+            ]
+        },
+        {
+            "title": "Usenet coming to Bell Labs",
+            "sender": "research!bell",
+            "recipient": "all!bell",
+            "cc": "",
+            "date": "2 April 1980",
+            "body": [
+                "Unix v7 was only released last year, but it’s already proving to be a massive success both in and out of Bell Labs. In particular, UUCP has been a major breakthrough. I heard they’re even using it on ARPANET. One of the greatest developments coming out of the UUCP boom has been a new technology developed in North Carolina called Usenet. Usenet is a new way to talk to coworkers with UUCP. It allows you to post messages on “channels” that other users can read and even respond to. It’s kind of like a virtual bulletin board! You can even create your own channels!",
+                "There is already a channel up called soc.motss. I'm not fully sure what \"motss\" stands for though...",
+                "",
+                "Try it today with the same UUCP commands you know and love on any Bell Labs computer.",
+                "",
+                "Thanks,",
+                "Bell Labs, computer networks research team"
+            ]
+        },
+        {
+            "title": "RE: Do today's changes apply to Bell Labs?",
+            "sender": "hr!bell",
+            "recipient": "Me",
+            "cc": "",
+            "date": "13 May 1980",
+            "body": [
+                "Sorry for the late response,",
+                "",
+                "Unfortunately, we do not yet have an answer for your inquiry. We are still awaiting an official response from AT&T",
+                "",
+                "Thanks you,",
+                "Human Relations, Bell Labs.",
+                "-----",
+                "From: Me",
+                "To: hr!bell",
+                "Date: 8 December 1979",
+                "",
+                "Greetings,",
+                "",
+                "Do you know if today's changes to AT&T's antidiscrimination policy apply to Bell Labs as well?",
+                "",
+                "Thanks."
+            ]
+        },
+        {
+            "title": "On the recent antitrust lawsuit",
+            "sender": "president!att",
+            "recipient": "all!bell",
+            "cc": "",
+            "date": "8 January 1982",
+            "body": [
+                "Greetings,",
+                "As you may have heard, federal regulators have recently announced that they are breaking up AT&T, Bell Laboratories’ parent company, into several regional divisions.",
+                "As part of this breakup, Bell Labs will now be owned as a joint partnership between BellSouth, headquartered in Atlanta, Georgia, and AT&T Corporation, headquartered in Dallas, Texas.",
+                "",
+                "Thanks,",
+                "Office of the President, AT&T."
+
+            ]
+        },
+        {
+            "title": "research!gg: GAY GROUP REJECTED BY CORPORATE",
+            "sender": "coworker!bell",
+            "recipient": "research!gg",
+            "cc": "",
+            "date": "8 October 1982",
+            "body": [
+                "Greetings to the gay and lesbian workers at Bell Labs",
+                "I am starting a new mailing list called “research!gg” for us to be able to keep up to date on the latest GLBT events in Bell Laboratories and AT&T. Incase you’re wondering, “gg” stands for “gay group”. Try to keep this list a secret - we do NOT want management to find out.",
+                "",
+                "This is especially true after management REJECTED giving official recognition to the Holmdel office’s Lesbian Gay Alliance chapter…. so much for that antidiscrimination policy…"
+            ]
+        },
+        {
+            "title": "RE: I liked your post on soc.motss",
+            "sender": "coworker!bell",
+            "recipient": "Me",
+            "cc": "",
+            "date": "27 July 1986",
+            "body": [
+                "Hey, I appreciate you liked it!",
+                "If you want to see more of this kinda stuff, check out this mailing group we set up called research!gg. We have members from Bell Labs offices all over the country - even south in Houston. I’ll send you an invite later today.",
+                "Keep it secret btw - management doesn’t need to know about it.",
+                "-----",
+                "From: Me",
+                "To: coworker!bell",
+                "Date: 27 July 1986",
+                "",
+                "Hey, I liked your post on that Usenet group soc.motss . Took me a while to realize motss stood for \"members of the same sex\"… and even longer to figure out it meant people who are attracted to \"members of the same sex\"…"
+
+            ]
+        },
+        {
+            "title": "RE: research!gg: New unofficial group - LEGIT",
+            "sender": "Me",
+            "recipient": "coworker!bell",
+            "cc": "",
+            "date": "7 September 1986",
+            "body": [
+                "I want to join",
+                "-----",
+                "From: coworker!bell",
+                "To: research!gg",
+                "Date: 6 September1986",
+                "",
+                "Greetings,",
+                "",
+                "A few employees who are active on soc.motss are forming a new, “unofficial” group called LEGIT (Lesbians and Gays in Telecommunications). Reply to this email if you are interested in joining."
+            ]
+        },
+        {
+            "title": "RE: research!gg: We need to organize",
+            "sender": "Me",
+            "recipient": "coworker!bell",
+            "cc": "",
+            "date": "17 October 1987",
+            "body": [
+                "I know someone from EEO who might be sympathetic. Let me draft a proposal and run it by them. It might be tricky though… a lot of employees who could vouch for us are scared of coming out. I just overheard someone say last week to a new hire that “if they want to advance in this company, don’t associate with LEGIT”.",
+                "-----",
+                "From: coworker!bell",
+                "To: research!gg",
+                "Date: 17 October 1987",
+                "",
+                "About a week ago, a bunch of employees here in Bell attended a National March on Washington for Lesbian and Gay Rights in DC. They said it was a huge success and the organizers want to hold another one. But it also inspired them to turn LEGIT into a more serious organization - like a gay resource group. You know, like those that African American workers have to combat racism in the office?",
+                "",
+                "I don’t know if anyone has ever managed to form a gay resource group in any company, but we might have a chance. I heard some other companies like Lotus started giving healthcare benefits to the partners of gay employees. Meanwhile here I still see some people graffiti f*ggot on the bathroom stalls. We have to do something."
+            ]
+        },
+        {
+            "title": "RE: RE: research!gg: We need to organize",
+            "sender": "Me",
+            "recipient": "research!gg",
+            "cc": "",
+            "date": "7 March 1988",
+            "body": [
+                "Just came out of our meeting w management….. WE WON! They said it will take time, but they are fine with recognizing us as an official resource group. At least in Denver, for now. That means funding for summits and seminars, and a safe space for people to be out in the workplace.",
+                "Just FYI - we are also renaming to LEAGUE (Lesbian and Gay United Employees)",
+                "",
+                "I want to thank everyone. This took a lot of work. We needed help from employees all over the country - NJ, Houston, Atlanta… By the end of the decade we might even have a chapter in every single office in BellSouth."
+            ]
+        }
+
+    ]
+}

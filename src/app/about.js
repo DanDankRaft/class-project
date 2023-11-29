@@ -4,7 +4,7 @@ import { useState } from "react";
 export default function About(props)
 {
     return (
-        <Window windowState={props.windowState} icon={"/info.png"} width={610} height={740} setWindowState={props.setWindowState} title="About your PC">
+        <Window windowState={props.windowState} icon={"/info.png"} width={610} height={800} setWindowState={props.setWindowState} title="About your PC">
             <div className="ml-[1px] w-[604px]">
                 <div className="p-1 aboutGradient border-b-4 border-[#f59434]">
                     <div className="flex flex-row w-fit mx-auto">

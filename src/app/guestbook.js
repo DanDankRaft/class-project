@@ -12,7 +12,7 @@ export default function Guestbook(props) {
     let [editorBody, setEditorBody] = useState("");
 
     useEffect(() => {
-        fetch(window.location.href + "/guestbook")
+        fetch("https://gayos.vercel.app/guestbook")
         .then(res => res.json())
         .then(res => setGuests(res.guests));
     }, [props.windowState, isEditor])

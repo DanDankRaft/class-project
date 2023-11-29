@@ -22,7 +22,7 @@ export default function About(props)
                         It turns out, the connection between queerness and tech runs deep. The people developing many of the technologies we use every day used these same technologies to explore, express, and advance queerness.
                     </p>
                     <p style={{textIndent: 20}}>
-                        Discover how Bell Labs employees used some early email technologies that they developed to organize the first private sector queer resource group in the United States. These fictional emails are recreations of real events documented by Margot Canaday's book Queer Career and AT&T LEAGUE's website.
+                        Discover how Bell Labs employees used some early email technologies that they developed to organize the first private sector queer resource group in the United States. These fictional emails are recreations of real events documented by Margot Canaday&apos;s book Queer Career and AT&T LEAGUE&apos;s website.
                     </p>
                     <p style={{textIndent: 20}}>
                         Find out how Apple helped queer people gain domestic partner benefits in Texas despite some heavy homophobic opposition.This story was preserved by reports from Washington Post, Wall Street Journal, and the New York Times.
